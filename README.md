@@ -2,7 +2,7 @@
 
 Distribution repository for the **Hyperset Runner** binary.
 
-Latest version: **v0.2.0**
+Latest version: **v0.3.0**
 
 ## Install
 
