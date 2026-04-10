@@ -1,12 +1,12 @@
 {
-  "version": "v0.3.3",
-  "published_at": "2026-04-09T15:47:29Z",
+  "version": "v0.4.0",
+  "published_at": "2026-04-10T06:11:20Z",
   "targets": {
-    "darwin-arm64": {"url":"https://github.com/hypersetai/get-runner/releases/download/v0.3.3/hyperset-runner-darwin-arm64-v0.3.3.tar.gz","sha256":"765a51ee868e0e7657edd445aeec9c10886a11a9ee0274132ba9702162453dcb"},
-    "darwin-x64": {"url":"https://github.com/hypersetai/get-runner/releases/download/v0.3.3/hyperset-runner-darwin-x64-v0.3.3.tar.gz","sha256":"8b30864c1e57ab32fc94ef1f23eb0210cf5847ebcf6db04d66cc9852d208de1a"},
-    "linux-arm64": {"url":"https://github.com/hypersetai/get-runner/releases/download/v0.3.3/hyperset-runner-linux-arm64-v0.3.3.tar.gz","sha256":"9c13ca72ebf55b91f5e39c4aab9d54d40e26a954aa77e2c6daccb685223d2dad"},
-    "linux-x64": {"url":"https://github.com/hypersetai/get-runner/releases/download/v0.3.3/hyperset-runner-linux-x64-v0.3.3.tar.gz","sha256":"0654326e545c4dedf244982ad0e779e873b918eb5da41aef38695032ca396ae0"},
-    "win32-x64-v0.3.3.exe": {"url":"https://github.com/hypersetai/get-runner/releases/download/v0.3.3/hyperset-runner-win32-x64-v0.3.3.exe","sha256":"6588b00fb0a9f1eeab7233f984caa2ca62240c70147282133854cbc3a614b937"},
-    "win32-x64": {"url":"https://github.com/hypersetai/get-runner/releases/download/v0.3.3/hyperset-runner-win32-x64-v0.3.3.zip","sha256":"3ad9186a58bfcb55c29a2c645332f04d08333b234aae3f4eef9b3b944b81b656"}
+    "darwin-arm64": {"url":"https://github.com/hypersetai/get-runner/releases/download/v0.4.0/hyperset-runner-darwin-arm64-v0.4.0.tar.gz","sha256":"d4351faba0ed82b364660ed276be45f341e37bab0dc378115774771804dbf63d"},
+    "darwin-x64": {"url":"https://github.com/hypersetai/get-runner/releases/download/v0.4.0/hyperset-runner-darwin-x64-v0.4.0.tar.gz","sha256":"aefe738ec64ac8690bba0d7bc8b425421e6cc592f0d01a75072d6868910e9f35"},
+    "linux-arm64": {"url":"https://github.com/hypersetai/get-runner/releases/download/v0.4.0/hyperset-runner-linux-arm64-v0.4.0.tar.gz","sha256":"a457a7791b5d8b05a8eaedd0d571984f6918ea86e12c2236d53f6c9c36dee37e"},
+    "linux-x64": {"url":"https://github.com/hypersetai/get-runner/releases/download/v0.4.0/hyperset-runner-linux-x64-v0.4.0.tar.gz","sha256":"3871a897e54cf6b55dd86a395375e4856ac2e69f29f7a713d39f5ddf6f24a0c6"},
+    "win32-x64-v0.4.0.exe": {"url":"https://github.com/hypersetai/get-runner/releases/download/v0.4.0/hyperset-runner-win32-x64-v0.4.0.exe","sha256":"ff2228cbd63a14f2fe3d41169a4f5d144e196f7ddd02e9b65d85b8b09ee760d1"},
+    "win32-x64": {"url":"https://github.com/hypersetai/get-runner/releases/download/v0.4.0/hyperset-runner-win32-x64-v0.4.0.zip","sha256":"01ee4f936a330432a62ea6c6178a16cf87c31e8314b475d23b359b144fd51a01"}
   }
 }
